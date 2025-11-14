@@ -1,0 +1,21 @@
+                                                        Unity Projektet  Dokument
+ Projektet börjar med huvud spelare som en hund som heter Max , den lever med två andra hundar 
+Orange hund som vill vara alfa hund i gruppen , den som jagar Max  spelet börjar med att Orange patruller sitt område   med andra hunden  men när Max närmar sig  till deras område börjar Orange 
+Jaga den  , om Max  hannar gå ut snabbt from området så  Orange gå till backa till patrullera annars
+den förfölja Max och attackera ,  Max äter  svamp om det finns inte ben , den har hund hus med dör 
+som bara den kan öppna så den tar skydd om någon förfölja den.
+I spelet finns två Lever  MainMenu Level  och Game level  spelet börjar med  MainMenu  som man väljer Player .
+Spelet har också  kollation av svamp som räknar antalet svamp som Max äter det finns också  väggar.
+Max kan skjuter när det behöves  den kan  springa och hoppa  men problemet när den vrider på sig 
+I verklighet tillbringade jag lång tid på att fixa den men det gick inte.
+Jag vet  att projektet  var inte så bra  det första försök , jag ska arbeta fram för att förbättra möjlighet att göra bättra sakar i framtiden .   jag har titta på många  youtube handledningar för att lära mig mer
+Men tyvärr en del av dom  säger inte sanningen  men ändå man lär sig .
+
+Info om knappar som användes i spelet
+ Play :   I meny  button 
+E :         att skjuta 
+Space : att hoppa
+W S A D : att  röra på Player 
+Sabah Muhsen
+M.V.H
+Tack
